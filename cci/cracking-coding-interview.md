@@ -1,13 +1,114 @@
 # 程序员面试金典（第 6 版）
 
-| **#**        | **题名**                                              | **题解**                                                     | **通过率** | **难度** |
-| :----------- | :---------------------------------------------------- | :----------------------------------------------------------- | :--------- | :------- |
-| 面试题 01.01 | [判定字符是否唯一](cci-0101-is-unique.md)             | [1334](https://leetcode-cn.com/problems/is-unique-lcci/solution) | 72.3%      | 简单     |
-| 面试题 01.02 | [判定是否互为字符重排](cci-0102-check-permutation.md) | [932](https://leetcode-cn.com/problems/check-permutation-lcci/solution) | 65.1%      | 简单     |
-| 面试题 01.03 | [URL化](cci-0103-string-to-url.md)                    | [392](https://leetcode-cn.com/problems/string-to-url-lcci/solution) | 58.2%      | 简单     |
-| 面试题 01.04 | [回文排列](cci-0104-palindrome-permutation.md)        | [683](https://leetcode-cn.com/problems/palindrome-permutation-lcci/solution) | 55.0%      | 简单     |
-| 面试题 01.05 | [一次编辑](cci-0105-one-away.md)                      | [470](https://leetcode-cn.com/problems/one-away-lcci/solution) | 33.3%      | 中等     |
-| 面试题 01.06 | [字符串压缩](cci-0106-compress-string.md)             | [1073](https://leetcode-cn.com/problems/compress-string-lcci/solution) | 47.4%      | 简单     |
-| 面试题 01.07 | [旋转矩阵](cci-0107-rotate-matrix.md)                 | [887](https://leetcode-cn.com/problems/rotate-matrix-lcci/solution) | 75.7%      | 中等     |
-| 面试题 01.08 | [零矩阵](cci-0108-zero-matrix.md)                     | [422](https://leetcode-cn.com/problems/zero-matrix-lcci/solution) | 62.2%      | 中等     |
-| 面试题 01.09 | [字符串轮转](cci-0109-string-rotation.md)             | [339](https://leetcode-cn.com/problems/string-rotation-lcci/solution) | 55.1%      | 简单     |
+| **#**        | **题名**                                                     | **题解**                                                     | **通过率** | **难度** |
+| :----------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :--------- | :------- |
+| 面试题 01.01 | [判定字符是否唯一](cci-0101-is-unique.md)                    | [1334](https://leetcode-cn.com/problems/is-unique-lcci/solution) | 72.3%      | 简单     |
+| 面试题 01.02 | [判定是否互为字符重排](cci-0102-check-permutation.md)        | [932](https://leetcode-cn.com/problems/check-permutation-lcci/solution) | 65.1%      | 简单     |
+| 面试题 01.03 | [URL化](cci-0103-string-to-url.md)                           | [392](https://leetcode-cn.com/problems/string-to-url-lcci/solution) | 58.2%      | 简单     |
+| 面试题 01.04 | [回文排列](cci-0104-palindrome-permutation.md)               | [683](https://leetcode-cn.com/problems/palindrome-permutation-lcci/solution) | 55.0%      | 简单     |
+| 面试题 01.05 | [一次编辑](cci-0105-one-away.md)                             | [470](https://leetcode-cn.com/problems/one-away-lcci/solution) | 33.3%      | 中等     |
+| 面试题 01.06 | [字符串压缩](cci-0106-compress-string.md)                    | [1073](https://leetcode-cn.com/problems/compress-string-lcci/solution) | 47.4%      | 简单     |
+| 面试题 01.07 | [旋转矩阵](cci-0107-rotate-matrix.md)                        | [887](https://leetcode-cn.com/problems/rotate-matrix-lcci/solution) | 75.7%      | 中等     |
+| 面试题 01.08 | [零矩阵](cci-0108-zero-matrix.md)                            | [422](https://leetcode-cn.com/problems/zero-matrix-lcci/solution) | 62.2%      | 中等     |
+| 面试题 01.09 | [字符串轮转](cci-0109-string-rotation.md)                    | [339](https://leetcode-cn.com/problems/string-rotation-lcci/solution) | 55.1%      | 简单     |
+| 面试题 02.01 | [移除重复节点](cci/cci-0201-remove-duplicate-node.md)        | [618](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/solution) | 68.7%      | 简单     |
+| 面试题 02.02 | [返回倒数第 k 个节点](cci/cci-0202-kth-node-from-end-of-list) | [868](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/solution) | 77.9%      | 简单     |
+| 面试题 02.03 | [删除中间节点](cci-0203-delete-middle-node)                  | [623](https://leetcode-cn.com/problems/delete-middle-node-lcci/solution) | 85.2%      | 简单     |
+| 面试题 02.04 | [分割链表](cci-0204-partition-list)                          | [312](https://leetcode-cn.com/problems/partition-list-lcci/solution) | 65.8%      | 中等     |
+| 面试题 02.05 | [链表求和](cci-0205-sum-lists)                               | [456](https://leetcode-cn.com/problems/sum-lists-lcci/solution) | 46.6%      | 中等     |
+| 面试题 02.06 | [回文链表](cci-0206-palindrome-linked-list)                  | [436](https://leetcode-cn.com/problems/palindrome-linked-list-lcci/solution) | 48.0%      | 简单     |
+| 面试题 02.07 | [链表相交](cci-0207-intersection-of-two-linked-lists)        | [308](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/solution) | 69.0%      | 简单     |
+| 面试题 02.08 | [环路检测](cci-0208-linked-list-cycle)                       | [241](https://leetcode-cn.com/problems/linked-list-cycle-lcci/solution) | 52.6%      | 中等     |
+| 面试题 03.01 | [三合一](https://leetcode-cn.com/problems/three-in-one-lcci) | [134](https://leetcode-cn.com/problems/three-in-one-lcci/solution) | 54.2%      | 简单     |
+| 面试题 03.02 | [栈的最小值](https://leetcode-cn.com/problems/min-stack-lcci) | [254](https://leetcode-cn.com/problems/min-stack-lcci/solution) | 60.9%      | 简单     |
+| 面试题 03.03 | [堆盘子](https://leetcode-cn.com/problems/stack-of-plates-lcci) | [101](https://leetcode-cn.com/problems/stack-of-plates-lcci/solution) | 38.1%      | 中等     |
+| 面试题 03.04 | [化栈为队](https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci) | [300](https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci/solution) | 70.8%      | 简单     |
+| 面试题 03.05 | [栈排序](https://leetcode-cn.com/problems/sort-of-stacks-lcci) | [141](https://leetcode-cn.com/problems/sort-of-stacks-lcci/solution) | 54.8%      | 中等     |
+| 面试题 03.06 | [动物收容所](https://leetcode-cn.com/problems/animal-shelter-lcci) | [147](https://leetcode-cn.com/problems/animal-shelter-lcci/solution) | 59.4%      | 简单     |
+| 面试题 04.01 | [节点间通路](https://leetcode-cn.com/problems/route-between-nodes-lcci) | [191](https://leetcode-cn.com/problems/route-between-nodes-lcci/solution) | 53.2%      | 中等     |
+| 面试题 04.02 | [最小高度树](https://leetcode-cn.com/problems/minimum-height-tree-lcci) | [362](https://leetcode-cn.com/problems/minimum-height-tree-lcci/solution) | 78.9%      | 简单     |
+| 面试题 04.03 | [特定深度节点链表](https://leetcode-cn.com/problems/list-of-depth-lcci) | [456](https://leetcode-cn.com/problems/list-of-depth-lcci/solution) | 80.4%      | 中等     |
+| 面试题 04.04 | [检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci) | [341](https://leetcode-cn.com/problems/check-balance-lcci/solution) | 57.9%      | 简单     |
+| 面试题 04.05 | [合法二叉搜索树](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci) | [277](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/solution) | 34.8%      | 中等     |
+| 面试题 04.06 | [后继者](https://leetcode-cn.com/problems/successor-lcci)    | [195](https://leetcode-cn.com/problems/successor-lcci/solution) | 59.0%      | 中等     |
+| 面试题 04.08 | [首个共同祖先](https://leetcode-cn.com/problems/first-common-ancestor-lcci) | [143](https://leetcode-cn.com/problems/first-common-ancestor-lcci/solution) | 71.7%      | 中等     |
+| 面试题 04.09 | [二叉搜索树序列](https://leetcode-cn.com/problems/bst-sequences-lcci) | [94](https://leetcode-cn.com/problems/bst-sequences-lcci/solution) | 47.2%      | 困难     |
+| 面试题 04.10 | [检查子树](https://leetcode-cn.com/problems/check-subtree-lcci) | [211](https://leetcode-cn.com/problems/check-subtree-lcci/solution) | 71.8%      | 中等     |
+| 面试题 04.12 | [求和路径](https://leetcode-cn.com/problems/paths-with-sum-lcci) | [219](https://leetcode-cn.com/problems/paths-with-sum-lcci/solution) | 48.7%      | 中等     |
+| 面试题 05.01 | [插入](https://leetcode-cn.com/problems/insert-into-bits-lcci) | [143](https://leetcode-cn.com/problems/insert-into-bits-lcci/solution) | 50.2%      | 简单     |
+| 面试题 05.02 | [二进制数转字符串](https://leetcode-cn.com/problems/bianry-number-to-string-lcci) | [91](https://leetcode-cn.com/problems/bianry-number-to-string-lcci/solution) | 66.7%      | 中等     |
+| 面试题 05.03 | [翻转数位](https://leetcode-cn.com/problems/reverse-bits-lcci) | [191](https://leetcode-cn.com/problems/reverse-bits-lcci/solution) | 39.8%      | 简单     |
+| 面试题 05.04 | [下一个数](https://leetcode-cn.com/problems/closed-number-lcci) | [114](https://leetcode-cn.com/problems/closed-number-lcci/solution) | 41.0%      | 中等     |
+| 面试题 05.06 | [整数转换](https://leetcode-cn.com/problems/convert-integer-lcci) | [188](https://leetcode-cn.com/problems/convert-integer-lcci/solution) | 52.3%      | 简单     |
+| 面试题 05.07 | [配对交换](https://leetcode-cn.com/problems/exchange-lcci)   | [167](https://leetcode-cn.com/problems/exchange-lcci/solution) | 70.0%      | 简单     |
+| 面试题 05.08 | [绘制直线](https://leetcode-cn.com/problems/draw-line-lcci)  | [59](https://leetcode-cn.com/problems/draw-line-lcci/solution) | 54.9%      | 中等     |
+| 面试题 08.01 | [三步问题](https://leetcode-cn.com/problems/three-steps-problem-lcci) | [407](https://leetcode-cn.com/problems/three-steps-problem-lcci/solution) | 36.2%      | 简单     |
+| 面试题 08.02 | [迷路的机器人](https://leetcode-cn.com/problems/robot-in-a-grid-lcci) | [163](https://leetcode-cn.com/problems/robot-in-a-grid-lcci/solution) | 35.8%      | 中等     |
+| 面试题 08.03 | [魔术索引](https://leetcode-cn.com/problems/magic-index-lcci) | [404](https://leetcode-cn.com/problems/magic-index-lcci/solution) | 67.7%      | 简单     |
+| 面试题 08.04 | [幂集](https://leetcode-cn.com/problems/power-set-lcci)      | [286](https://leetcode-cn.com/problems/power-set-lcci/solution) | 82.3%      | 中等     |
+| 面试题 08.05 | [递归乘法](https://leetcode-cn.com/problems/recursive-mulitply-lcci) | [407](https://leetcode-cn.com/problems/recursive-mulitply-lcci/solution) | 67.6%      | 中等     |
+| 面试题 08.06 | [汉诺塔问题](https://leetcode-cn.com/problems/hanota-lcci)   | [221](https://leetcode-cn.com/problems/hanota-lcci/solution) | 65.2%      | 简单     |
+| 面试题 08.07 | [无重复字符串的排列组合](https://leetcode-cn.com/problems/permutation-i-lcci) | [268](https://leetcode-cn.com/problems/permutation-i-lcci/solution) | 81.0%      | 中等     |
+| 面试题 08.08 | [有重复字符串的排列组合](https://leetcode-cn.com/problems/permutation-ii-lcci) | [198](https://leetcode-cn.com/problems/permutation-ii-lcci/solution) | 71.7%      | 中等     |
+| 面试题 08.09 | [括号](https://leetcode-cn.com/problems/bracket-lcci)        | [292](https://leetcode-cn.com/problems/bracket-lcci/solution) | 81.1%      | 中等     |
+| 面试题 08.10 | [颜色填充](https://leetcode-cn.com/problems/color-fill-lcci) | [180](https://leetcode-cn.com/problems/color-fill-lcci/solution) | 55.3%      | 简单     |
+| 面试题 08.11 | [硬币](https://leetcode-cn.com/problems/coin-lcci)           | [302](https://leetcode-cn.com/problems/coin-lcci/solution)   | 49.4%      | 中等     |
+| 面试题 08.12 | [八皇后](https://leetcode-cn.com/problems/eight-queens-lcci) | [257](https://leetcode-cn.com/problems/eight-queens-lcci/solution) | 75.7%      | 困难     |
+| 面试题 08.13 | [堆箱子](https://leetcode-cn.com/problems/pile-box-lcci)     | [73](https://leetcode-cn.com/problems/pile-box-lcci/solution) | 49.8%      | 困难     |
+| 面试题 08.14 | [布尔运算](https://leetcode-cn.com/problems/boolean-evaluation-lcci) | [64](https://leetcode-cn.com/problems/boolean-evaluation-lcci/solution) | 53.2%      | 中等     |
+| 面试题 10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci) | [2313](https://leetcode-cn.com/problems/sorted-merge-lcci/solution) | 55.0%      | 简单     |
+| 面试题 10.02 | [变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci) | [174](https://leetcode-cn.com/problems/group-anagrams-lcci/solution) | 66.5%      | 中等     |
+| 面试题 10.03 | [搜索旋转数组](https://leetcode-cn.com/problems/search-rotate-array-lcci) | [177](https://leetcode-cn.com/problems/search-rotate-array-lcci/solution) | 40.1%      | 中等     |
+| 面试题 10.05 | [稀疏数组搜索](https://leetcode-cn.com/problems/sparse-array-search-lcci) | [217](https://leetcode-cn.com/problems/sparse-array-search-lcci/solution) | 54.8%      | 简单     |
+| 面试题 10.09 | [排序矩阵查找](https://leetcode-cn.com/problems/sorted-matrix-search-lcci) | [137](https://leetcode-cn.com/problems/sorted-matrix-search-lcci/solution) | 45.7%      | 中等     |
+| 面试题 10.10 | [数字流的秩](https://leetcode-cn.com/problems/rank-from-stream-lcci) | [61](https://leetcode-cn.com/problems/rank-from-stream-lcci/solution) | 62.8%      | 中等     |
+| 面试题 10.11 | [峰与谷](https://leetcode-cn.com/problems/peaks-and-valleys-lcci) | [72](https://leetcode-cn.com/problems/peaks-and-valleys-lcci/solution) | 66.3%      | 中等     |
+| 面试题 16.01 | [交换数字](https://leetcode-cn.com/problems/swap-numbers-lcci) | [356](https://leetcode-cn.com/problems/swap-numbers-lcci/solution) | 83.2%      | 中等     |
+| 面试题 16.02 | [单词频率](https://leetcode-cn.com/problems/words-frequency-lcci) | [153](https://leetcode-cn.com/problems/words-frequency-lcci/solution) | 76.2%      | 中等     |
+| 面试题 16.03 | [交点](https://leetcode-cn.com/problems/intersection-lcci)   | [226](https://leetcode-cn.com/problems/intersection-lcci/solution) | 44.3%      | 困难     |
+| 面试题 16.04 | [井字游戏](https://leetcode-cn.com/problems/tic-tac-toe-lcci) | [138](https://leetcode-cn.com/problems/tic-tac-toe-lcci/solution) | 45.6%      | 中等     |
+| 面试题 16.05 | [阶乘尾数](https://leetcode-cn.com/problems/factorial-zeros-lcci) | [104](https://leetcode-cn.com/problems/factorial-zeros-lcci/solution) | 46.3%      | 简单     |
+| 面试题 16.06 | [最小差](https://leetcode-cn.com/problems/smallest-difference-lcci) | [156](https://leetcode-cn.com/problems/smallest-difference-lcci/solution) | 42.0%      | 中等     |
+| 面试题 16.07 | [最大数值](https://leetcode-cn.com/problems/maximum-lcci)    | [249](https://leetcode-cn.com/problems/maximum-lcci/solution) | 73.5%      | 简单     |
+| 面试题 16.08 | [整数的英语表示](https://leetcode-cn.com/problems/english-int-lcci) | [54](https://leetcode-cn.com/problems/english-int-lcci/solution) | 37.1%      | 困难     |
+| 面试题 16.09 | [运算](https://leetcode-cn.com/problems/operations-lcci)     | [33](https://leetcode-cn.com/problems/operations-lcci/solution) | 53.3%      | 中等     |
+| 面试题 16.10 | [生存人数](https://leetcode-cn.com/problems/living-people-lcci) | [157](https://leetcode-cn.com/problems/living-people-lcci/solution) | 68.6%      | 中等     |
+| 面试题 16.11 | [跳水板](https://leetcode-cn.com/problems/diving-board-lcci) | [552](https://leetcode-cn.com/problems/diving-board-lcci/solution) | 44.1%      | 简单     |
+| 面试题 16.13 | [平分正方形](https://leetcode-cn.com/problems/bisect-squares-lcci) | [41](https://leetcode-cn.com/problems/bisect-squares-lcci/solution) | 42.8%      | 中等     |
+| 面试题 16.14 | [最佳直线](https://leetcode-cn.com/problems/best-line-lcci)  | [54](https://leetcode-cn.com/problems/best-line-lcci/solution) | 54.1%      | 中等     |
+| 面试题 16.15 | [珠玑妙算](https://leetcode-cn.com/problems/master-mind-lcci) | [182](https://leetcode-cn.com/problems/master-mind-lcci/solution) | 50.0%      | 简单     |
+| 面试题 16.16 | [部分排序](https://leetcode-cn.com/problems/sub-sort-lcci)   | [175](https://leetcode-cn.com/problems/sub-sort-lcci/solution) | 44.7%      | 中等     |
+| 面试题 16.17 | [连续数列](https://leetcode-cn.com/problems/contiguous-sequence-lcci) | [331](https://leetcode-cn.com/problems/contiguous-sequence-lcci/solution) | 59.8%      | 简单     |
+| 面试题 16.18 | [模式匹配](https://leetcode-cn.com/problems/pattern-matching-lcci) | [297](https://leetcode-cn.com/problems/pattern-matching-lcci/solution) | 34.5%      | 中等     |
+| 面试题 16.19 | [水域大小](https://leetcode-cn.com/problems/pond-sizes-lcci) | [315](https://leetcode-cn.com/problems/pond-sizes-lcci/solution) | 60.6%      | 中等     |
+| 面试题 16.20 | [T9键盘](https://leetcode-cn.com/problems/t9-lcci)           | [142](https://leetcode-cn.com/problems/t9-lcci/solution)     | 72.0%      | 中等     |
+| 面试题 16.21 | [交换和](https://leetcode-cn.com/problems/sum-swap-lcci)     | [148](https://leetcode-cn.com/problems/sum-swap-lcci/solution) | 46.2%      | 中等     |
+| 面试题 16.22 | [兰顿蚂蚁](https://leetcode-cn.com/problems/langtons-ant-lcci) | [51](https://leetcode-cn.com/problems/langtons-ant-lcci/solution) | 59.3%      | 中等     |
+| 面试题 16.24 | [数对和](https://leetcode-cn.com/problems/pairs-with-sum-lcci) | [130](https://leetcode-cn.com/problems/pairs-with-sum-lcci/solution) | 46.5%      | 中等     |
+| 面试题 16.25 | [LRU 缓存](https://leetcode-cn.com/problems/lru-cache-lcci)  | [205](https://leetcode-cn.com/problems/lru-cache-lcci/solution) | 54.0%      | 中等     |
+| 面试题 16.26 | [计算器](https://leetcode-cn.com/problems/calculator-lcci)   | [168](https://leetcode-cn.com/problems/calculator-lcci/solution) | 38.3%      | 中等     |
+| 面试题 17.01 | [不用加号的加法](https://leetcode-cn.com/problems/add-without-plus-lcci) | [149](https://leetcode-cn.com/problems/add-without-plus-lcci/solution) | 59.8%      | 简单     |
+| 面试题 17.04 | [消失的数字](https://leetcode-cn.com/problems/missing-number-lcci) | [388](https://leetcode-cn.com/problems/missing-number-lcci/solution) | 64.5%      | 简单     |
+| 面试题 17.05 | [ 字母与数字](https://leetcode-cn.com/problems/find-longest-subarray-lcci) | [71](https://leetcode-cn.com/problems/find-longest-subarray-lcci/solution) | 38.2%      | 中等     |
+| 面试题 17.06 | [2出现的次数](https://leetcode-cn.com/problems/number-of-2s-in-range-lcci) | [92](https://leetcode-cn.com/problems/number-of-2s-in-range-lcci/solution) | 44.0%      | 困难     |
+| 面试题 17.07 | [婴儿名字](https://leetcode-cn.com/problems/baby-names-lcci) | [196](https://leetcode-cn.com/problems/baby-names-lcci/solution) | 41.3%      | 中等     |
+| 面试题 17.08 | [马戏团人塔](https://leetcode-cn.com/problems/circus-tower-lcci) | [105](https://leetcode-cn.com/problems/circus-tower-lcci/solution) | 26.8%      | 中等     |
+| 面试题 17.09 | [第 k 个数](https://leetcode-cn.com/problems/get-kth-magic-number-lcci) | [113](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/solution) | 54.8%      | 中等     |
+| 面试题 17.10 | [主要元素](https://leetcode-cn.com/problems/find-majority-element-lcci) | [576](https://leetcode-cn.com/problems/find-majority-element-lcci/solution) | 53.7%      | 简单     |
+| 面试题 17.11 | [单词距离](https://leetcode-cn.com/problems/find-closest-lcci) | [225](https://leetcode-cn.com/problems/find-closest-lcci/solution) | 68.8%      | 中等     |
+| 面试题 17.12 | [BiNode](https://leetcode-cn.com/problems/binode-lcci)       | [249](https://leetcode-cn.com/problems/binode-lcci/solution) | 62.9%      | 简单     |
+| 面试题 17.13 | [恢复空格](https://leetcode-cn.com/problems/re-space-lcci)   | [252](https://leetcode-cn.com/problems/re-space-lcci/solution) | 55.2%      | 中等     |
+| 面试题 17.14 | [最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci) | [366](https://leetcode-cn.com/problems/smallest-k-lcci/solution) | 54.4%      | 中等     |
+| 面试题 17.15 | [最长单词](https://leetcode-cn.com/problems/longest-word-lcci) | [100](https://leetcode-cn.com/problems/longest-word-lcci/solution) | 40.2%      | 中等     |
+| 面试题 17.16 | [按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci) | [1085](https://leetcode-cn.com/problems/the-masseuse-lcci/solution) | 52.0%      | 简单     |
+| 面试题 17.17 | [多次搜索](https://leetcode-cn.com/problems/multi-search-lcci) | [155](https://leetcode-cn.com/problems/multi-search-lcci/solution) | 44.2%      | 中等     |
+| 面试题 17.18 | [最短超串](https://leetcode-cn.com/problems/shortest-supersequence-lcci) | [97](https://leetcode-cn.com/problems/shortest-supersequence-lcci/solution) | 44.3%      | 中等     |
+| 面试题 17.19 | [消失的两个数字](https://leetcode-cn.com/problems/missing-two-lcci) | [154](https://leetcode-cn.com/problems/missing-two-lcci/solution) | 58.5%      | 困难     |
+| 面试题 17.20 | [连续中值](https://leetcode-cn.com/problems/continuous-median-lcci) | [60](https://leetcode-cn.com/problems/continuous-median-lcci/solution) | 56.2%      | 困难     |
+| 面试题 17.21 | [直方图的水量](https://leetcode-cn.com/problems/volume-of-histogram-lcci) | [512](https://leetcode-cn.com/problems/volume-of-histogram-lcci/solution) | 63.4%      | 困难     |
+| 面试题 17.22 | [单词转换](https://leetcode-cn.com/problems/word-transformer-lcci) | [130](https://leetcode-cn.com/problems/word-transformer-lcci/solution) | 36.6%      | 中等     |
+| 面试题 17.23 | [最大黑方阵](https://leetcode-cn.com/problems/max-black-square-lcci) | [82](https://leetcode-cn.com/problems/max-black-square-lcci/solution) | 37.5%      | 中等     |
+| 面试题 17.24 | [最大子矩阵](https://leetcode-cn.com/problems/max-submatrix-lcci) | [93](https://leetcode-cn.com/problems/max-submatrix-lcci/solution) | 51.3%      | 困难     |
+| 面试题 17.25 | [单词矩阵](https://leetcode-cn.com/problems/word-rectangle-lcci) | [33](https://leetcode-cn.com/problems/word-rectangle-lcci/solution) | 48.5%      | 困难     |
+|面试题 17.26| [稀疏相似度](https://leetcode-cn.com/problems/sparse-similarity-lcci) | [43](https://leetcode-cn.com/problems/sparse-similarity-lcci/solution) |33.3%|困难|
+
