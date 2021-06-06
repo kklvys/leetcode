@@ -18,5 +18,6 @@
 - 数据库
 - Shell
 - 多线程
-- 程序员面试金典
-- [剑指Offer](cci/cracking-coding-interview.md)
+- [程序员面试金典](cci/cracking-coding-interview.md)
+- [剑指Offer](sfo/sword-finger-offer.md)
+
