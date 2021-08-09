@@ -3,19 +3,19 @@
 ## 数据结构入门
 
 - 第 1 天 数组
-	- 217. [存在重复元素](questions/normal-0217-contains-duplicate.md)
+	- [217. 存在重复元素](questions/normal-0217-contains-duplicate.md)
 	- 53. 最大子序和
 - 第 2 天 数组
-	- 1. [两数之和](questions/normal-0001-two-sum.md)
+	- [1. 两数之和](questions/normal-0001-two-sum.md)
 	- 88. 合并两个有序数组
 - 第 3 天 数组
 	- 350. 两个数组的交集 II
 	- 121. 买卖股票的最佳时机
 - 第 4 天 数组
-	- 566. [重塑矩阵](questions/normal-0566-reshape-the-matrix.md)
-	- 118. [杨辉三角](questions/normal-0118-pascals-triangle.md)
+	- [566. 重塑矩阵](questions/normal-0566-reshape-the-matrix.md)
+	- [118. 杨辉三角](questions/normal-0118-pascals-triangle.md)
 - 第 5 天 数组
-	- 36. [有效的数独](questions/normal-0036-valid-sudoku.md)
+	- [36. 有效的数独](questions/normal-0036-valid-sudoku.md)
 	- 73. 矩阵置零
 - 第 6 天 字符串
 	- 387. 字符串中的第一个唯一字符
