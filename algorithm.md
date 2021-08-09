@@ -13,11 +13,11 @@
 	- 283. 移动零
 	- 167. 两数之和 II - 输入有序数组
 - **第 4 天 双指针**
-	- 344. 反转字符串
-	- 557. 反转字符串中的单词 III
+	- 344. [反转字符串](questions/normal-0344-reverse-string.md)
+	- 557. [反转字符串中的单词 III](questions/normal-0557-reverse-words-in-a-string-iii.md)
 - **第 5 天 双指针**
-	- 876. 链表的中间结点
-	- 19. 删除链表的倒数第 N 个结点
+	- 876. [链表的中间结点](questions/normal-0876-middle-of-the-linked-list.md)
+	- 19. [删除链表的倒数第 N 个结点](questions/normal-0019-remove-nth-node-from-end-of-list.md)
 - **第 6 天 滑动窗口**
 	- 3. 无重复字符的最长子串
 	- 567. 字符串的排列
