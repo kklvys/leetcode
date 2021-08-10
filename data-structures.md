@@ -16,29 +16,29 @@
 	- [118. 杨辉三角](questions/normal-0118-pascals-triangle.md)
 - 第 5 天 数组
 	- [36. 有效的数独](questions/normal-0036-valid-sudoku.md)
-	- 73. 矩阵置零
+	- [73. 矩阵置零](questions/normal-0073-set-matrix-zeroes.md)
 - 第 6 天 字符串
-	- 387. 字符串中的第一个唯一字符
-	- 383. 赎金信
-	- 242. 有效的字母异位词
+	- [387. 字符串中的第一个唯一字符](questions/normal-0387-first-unique-character-in-a-string.md)
+	- [383. 赎金信](questions/normal-0383-ransom-note.md)
+	- [242. 有效的字母异位词](questions/normal-0242-valid-anagram.md)
 - 第 7 天 链表
 	- 141. 环形链表
-	- 21. 合并两个有序链表
-	- 203. 移除链表元素
+	- [21. 合并两个有序链表](questions/normal-0021-merge-two-sorted-lists.md)
+	- [203. 移除链表元素](questions/normal-0203-remove-linked-list-elements.md)
 - 第 8 天 链表
-	- 206. 反转链表
-	- 83. 删除排序链表中的重复元素
+	- [206. 反转链表](questions/normal-0206-reverse-linked-list.md)
+	- [83. 删除排序链表中的重复元素](questions/normal-0083-remove-duplicates-from-sorted-list.md)
 - 第 9 天 栈 / 队列
-	- 20. 有效的括号
-	- 232. 用栈实现队列
+	- [20. 有效的括号](questions/normal-0020-valid-parentheses.md)
+	- [232. 用栈实现队列](questions/normal-0232-implement-queue-using-stacks.md)
 - 第 10 天 树
-	- 144. 二叉树的前序遍历
-	- 94. 二叉树的中序遍历
-	- 145. 二叉树的后序遍历
+	- [144. 二叉树的前序遍历](questions/normal-0144-binary-tree-preorder-traversal.md)
+	- [94. 二叉树的中序遍历](questions/normal-0094-binary-tree-inorder-traversal.md)
+	- [145. 二叉树的后序遍历](questions/normal-0145-binary-tree-postorder-traversal.md)
 - 第 11 天 树
-	- 102. 二叉树的层序遍历
-	- 104. 二叉树的最大深度
-	- 101. 对称二叉树
+	- [102. 二叉树的层序遍历](questions/normal-0102-binary-tree-level-order-traversal.md)
+	- [104. 二叉树的最大深度](questions/normal-0104-maximum-depth-of-binary-tree.md)
+	- [101. 对称二叉树](questions/normal-0101-symmetric-tree.md)
 - 第 12 天 树
 	- 226. 翻转二叉树
 	- 112. 路径总和

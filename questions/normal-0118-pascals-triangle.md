@@ -8,7 +8,7 @@
 
 在「杨辉三角」中，每个数是它左上方和右上方的数的和。
 
-![img](images/1626927345-DZmfxB-PascalTriangleAnimated2.gif)
+![img](images/normal-0118-1.gif)
 
  
 

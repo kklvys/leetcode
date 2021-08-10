@@ -10,7 +10,7 @@
 
 **示例 1：**
 
-![](images/remove_ex1.jpg)
+![](images/normal-0019-1.jpg)
 
 ```
 输入：head = [1,2,3,4,5], n = 2

@@ -19,7 +19,7 @@
 
 **示例 1：**
 
-![img](images/250px-sudoku-by-l2g-20050714svg.png)
+![img](images/normal-0036-1.png)
 
 ```
 输入：board = 

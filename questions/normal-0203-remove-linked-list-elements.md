@@ -1,7 +1,7 @@
 # 203. 移除链表元素
-### 题目
-
 [来源](https://leetcode-cn.com/problems/remove-linked-list-elements)
+
+## 题目
 
 给你一个链表的头节点 `head` 和一个整数 `val` ，请你删除链表中所有满足 `Node.val == val` 的节点，并返回 **新的头节点** 。
 
@@ -34,7 +34,7 @@
 - `1 <= Node.val <= 50`
 - `0 <= k <= 50`
 
-### 解题
+## 解题
 
 #### Python
 

@@ -14,7 +14,7 @@
 
 **示例 1：**
 
-![img](images/reshape1-grid.jpg)
+![img](images/normal-0566-1.jpg)
 
 ```
 输入：mat = [[1,2],[3,4]], r = 1, c = 4
@@ -23,7 +23,7 @@
 
 **示例 2：**
 
-![img](images/reshape2-grid.jpg)
+![img](images/normal-0566-2.jpg)
 
 ```
 输入：mat = [[1,2],[3,4]], r = 2, c = 4
