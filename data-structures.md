@@ -40,12 +40,12 @@
 	- [104. 二叉树的最大深度](questions/normal-0104-maximum-depth-of-binary-tree.md)
 	- [101. 对称二叉树](questions/normal-0101-symmetric-tree.md)
 - 第 12 天 树
-	- 226. 翻转二叉树
+	- [226. 翻转二叉树](questions/normal-0226-invert-binary-tree.md)
 	- 112. 路径总和
 - 第 13 天 树
-	- 700. 二叉搜索树中的搜索
+	- [700. 二叉搜索树中的搜索](questions/normal-0700-search-in-a-binary-search-tree.md)
 	- 701. 二叉搜索树中的插入操作
 - 第 14 天 树
-	- 98. 验证二叉搜索树
+	- [98. 验证二叉搜索树](questions/normal-0098-validate-binary-search-tree.md)
 	- 653. 两数之和 IV - 输入 BST
 	- 235. 二叉搜索树的最近公共祖先
